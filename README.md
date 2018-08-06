@@ -22,8 +22,10 @@ https://support.yunbi.com/hc/zh-cn/articles/115004887367-%E6%AF%94%E7%89%B9%E5%B
 必須讀，三大區塊鏈的比較
 https://umu.diva-portal.org/smash/get/diva2:1111497/FULLTEXT01.pdf
 
-比較Hyperledger 與  Etherum
+比較Hyperledger與Etherum
 https://www.verypossible.com/blog/the-pros-and-cons-of-hyperledger-fabric
+
+
 ---------
 
 # **政策**
@@ -58,10 +60,10 @@ http://ledger.jd.com/files/%E4%BA%AC%E4%B8%9C%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%8
 **京东区块链技术白皮书**  
 http://www.huoxing24.com/newsdetail/2018032215122687439.html
 
-**鯨準垂直行業白皮書**
+**鯨準垂直行業白皮書**  
 https://www.toutiao.com/a6583563657911730696/
 
-**華為區塊鏈白皮書**
+**華為區塊鏈白皮書**  
 https://static.huaweicloud.com/upload/files/pdf/20180411/20180411144924_27164.pdf
 
 ----------
