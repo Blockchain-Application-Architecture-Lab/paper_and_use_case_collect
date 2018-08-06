@@ -1,5 +1,6 @@
 # Basic
 
+
 基本概要名詞介紹
 https://www.toutiao.com/a6583848622842970632/
 
@@ -15,6 +16,14 @@ https://www.toutiao.com/a6574932565214364164/
 区块链100问：从小白到大佬
 https://www.jutuilian.com/article-29479-1.html
 
+幣、私key、公key、錢包
+https://support.yunbi.com/hc/zh-cn/articles/115004887367-%E6%AF%94%E7%89%B9%E5%B8%81%E5%8F%8A%E9%92%B1%E5%8C%85%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86
+
+必須讀，三大區塊鏈的比較
+https://umu.diva-portal.org/smash/get/diva2:1111497/FULLTEXT01.pdf
+
+比較Hyperledger 與  Etherum
+https://www.verypossible.com/blog/the-pros-and-cons-of-hyperledger-fabric
 ---------
 
 # **政策**
@@ -33,6 +42,7 @@ https://www.jutuilian.com/article-46053-1.html
 ---------
 # 白皮書
 
+
 **區塊鏈金融應用白皮書**  
 <pdf上傳>
 
@@ -50,6 +60,9 @@ http://www.huoxing24.com/newsdetail/2018032215122687439.html
 
 **鯨準垂直行業白皮書**
 https://www.toutiao.com/a6583563657911730696/
+
+**華為區塊鏈白皮書**
+https://static.huaweicloud.com/upload/files/pdf/20180411/20180411144924_27164.pdf
 
 ----------
 # 論文
@@ -141,3 +154,40 @@ https://mp.weixin.qq.com/s/zJvadOInlNooBZWJvmk8cw
 IBM新產品 - LedgerConnect
 https://mp.weixin.qq.com/s/Lyh2PL-d9WaVFE1My6ORfQ
 
+以軟體工程的使用情境去探討Fabric的合適程度
+https://comserv.cs.ut.ee/home/files/Mitt_SoftwareEngineering_2018.pdf?study=ATILoputoo&reference=817812FDF71FE8C8455782543272369A66B6F283
+
+銀行案例
+https://my.oschina.net/neochen/blog/1785361
+
+食品類案例
+https://my.oschina.net/neochen/blog/1634327
+
+較生活化的介紹
+https://my.oschina.net/ruoli/blog/1813130
+
+效能驗證工具Caliper
+https://sdk.cn/news/8174
+
+----------
+
+# 乙太坊
+
+EVM架構
+https://my.oschina.net/hunjixin/blog/1805306
+
+token標準介紹與演進
+https://yq.aliyun.com/articles/617086
+
+以太坊分片協議的應用場景
+https://www.jianshu.com/p/045a1577b9b3
+
+以太坊 p2p server
+https://my.oschina.net/hunjixin/blog/1803029
+
+----------
+
+# 自研發區塊鏈
+
+用go 自行搭建區塊鏈
+https://my.oschina.net/u/2275217/blog/1807676
