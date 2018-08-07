@@ -184,6 +184,17 @@ https://arestech.io/
 **Hyperdragons**
 https://hyperdragons.alfakingdom.com/
 
+## 算力共享
+
+**算力新創場業的共享，好處**
+http://www.qukuaiwang.com.cn/news/7705.html
+
+**算力共享，合適的應用場景，網咖**
+https://www.jinse.com/bitcoin/211825.html
+
+**架構**
+https://36kr.com/p/5145701.html
+
 
 ----------
 
