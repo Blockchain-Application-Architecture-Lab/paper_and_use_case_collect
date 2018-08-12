@@ -193,3 +193,43 @@ https://my.oschina.net/hunjixin/blog/1803029
 
 用go 自行搭建區塊鏈
 https://my.oschina.net/u/2275217/blog/1807676
+
+----------
+
+# 區塊鏈與GDPR
+
+當創新對上人權：GDPR讓區塊鏈都不區塊鏈了？ - 數位時代
+https://www.bnext.com.tw/article/49341/gdpr-ai
+
+考慮區塊鏈在GDPR下得使用考量
+https://medium.com/getamis/%E7%95%B6%E5%8D%80%E5%A1%8A%E9%8F%88%E9%81%87%E4%B8%8A-gdpr-f3479ad16763
+
+點出為什麼GDPR有可能扼殺區塊鏈
+https://zhuanlan.zhihu.com/p/37332615
+
+淺談區塊鏈 VS GDPR
+http://bangqu.com/Yp1R5r.html
+
+區塊勢 - 論述GDPR下的區塊鏈更能夠有效解決GDPR想避免的問題
+https://blocktrend.today/06-26-2018-eu-gdpr-regulation-make-blockchain-go-mainstream
+
+區塊鏈與GDPR矛盾點
+https://opinion.udn.com/opinion/story/12135/3168769
+
+----------
+
+# HyperLedger與GDPR
+
+IBM提出GDPR下的區塊鏈解決方案
+https://public.dhe.ibm.com/common/ssi/ecm/61/en/61014461usen/security-ibm-security-solutions-wg-white-paper-external-61014461usen-20180319.pdf
+
+關於Fabric在新版本提供的解決GDPR新功能 - 私人數據
+https://medium.com/wearetheledger/private-db-a-built-in-gdpr-compliant-solution-for-hyperledger-fabric-1a082da1b301
+
+Hyperledger Fabric Blockchain承諾“GDPR兼容”解決方案 - 新聞
+https://privacy.com.ph/news-article/hyperledger-fabric-blockchain-promises-gdpr-compliant-solution/
+
+IBM在將區塊鏈視為解決隱私問題的解決方案時，需要考慮的五件事情 
+http://blog.leanote.com/post/liukang/Hyperledger%E7%9A%84BasS
+
+----------
