@@ -36,6 +36,9 @@ https://www.toutiao.com/a6578784236847759885/
 **圖片版權**
 https://www.jutuilian.com/article-47125-1.html
 
+**內容經濟的區塊鏈**
+https://mainnet.yalls.org/
+
 
 ## 手機
 
@@ -65,6 +68,9 @@ https://www.toutiao.com/a6579583281363157512/
 **fincoin**
 https://www.toutiao.com/a6579129878858170884/
 
+**成人應用的代幣**
+https://www.bnext.com.tw/article/48837/pornhub-adds-crypto-payment-option-verge-token
+
 ## 社交
 
 **ONO：国内首款基于区块链技术的去中心化泛社交应用**
@@ -75,6 +81,9 @@ http://www.wanbizu.com/xinbi/20140701401.html
 
 **以色列区块链应用Matchpool，用戶可創建群組，進群需付代幣**
 http://www.528btc.com/events/2547.html
+
+**社交代幣，已從2015年運行，採線上線下混合技術交易**
+https://www.inside.com.tw/2018/08/27/crypto-social-network-minds
 
 
 ## 教育
@@ -168,6 +177,8 @@ https://www.carblock.io/assets/file/whitepaper_en.pdf
 http://tfcoin.io/
 http://tfcoin.io/pdf/TFwhite_cn.pdf
 
+**物聯網相關鏈**
+https://sdchain.io/
 
 ## 邊緣計算
 
@@ -184,6 +195,9 @@ https://arestech.io/
 **Hyperdragons**
 https://hyperdragons.alfakingdom.com/
 
+**使用比特幣做的線上遊戲**
+https://hammerco.in/
+
 ## 算力共享
 
 **算力新創場業的共享，好處**
@@ -194,6 +208,11 @@ https://www.jinse.com/bitcoin/211825.html
 
 **架構**
 https://36kr.com/p/5145701.html
+
+## 投資公司
+
+**節點資本 Node Captial**
+http://www.nodecap.com/
 
 
 ----------
@@ -215,3 +234,6 @@ https://mp.weixin.qq.com/s/WhquoAXleBudeGpyPTVbVA
 
 **神奇技術突破區塊鏈盲點**
 https://www.toutiao.com/a6579003850433233422
+
+**聯盟鏈的常見幾大品牌**
+Hyperledger, ripple, r3

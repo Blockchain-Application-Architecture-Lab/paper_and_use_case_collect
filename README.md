@@ -187,6 +187,12 @@ https://www.jianshu.com/p/045a1577b9b3
 以太坊 p2p server
 https://my.oschina.net/hunjixin/blog/1803029
 
+將智能合約分割成logic合約與資料合約
+https://drive.google.com/file/d/1_izeV4ArPEkmG7xcH-pDetqeWoY3o4nw/edit
+
+以太坊的擴展方案 BOLT 與 Plasma
+https://drive.google.com/file/d/1hlfPFyqP-g_RCJ_-pMRvjV5UFCBVBdsb/edit
+
 ----------
 
 # 自研發區塊鏈
@@ -233,3 +239,16 @@ IBM在將區塊鏈視為解決隱私問題的解決方案時，需要考慮的�
 http://blog.leanote.com/post/liukang/Hyperledger%E7%9A%84BasS
 
 ----------
+
+# 商業發展報告
+
+溯源鍊未來展望（廠商順帶推銷自己）
+https://www.jinse.com/bitcoin/231255.html
+
+落地應用方案介紹
+https://www.jinse.com/bitcoin/222293.html
+
+區塊鏈+AI智能報告
+http://www.nodecap.com/research/preview/17
+
+
