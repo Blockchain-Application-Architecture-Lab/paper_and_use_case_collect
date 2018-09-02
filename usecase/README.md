@@ -50,6 +50,10 @@ https://www.ifmchain.com/
 **展示智能合約安全問題**
 https://www.biask.com/article/283
 
+## 食品安全
+
+**IBM News 區塊鏈打造食品供應鍊的信任度**
+https://www.ibm.com/blogs/blockchain/2018/07/taste-the-future-with-a-blockchain-meal/
 
 ## 作業系統
 
